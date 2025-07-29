@@ -1,0 +1,25 @@
+{
+  "name": "dice-roller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lostcolony/dice-roller.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lostcolony/dice-roller/issues"
+  },
+  "homepage": "https://github.com/lostcolony/dice-roller#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "express-session": "^1.18.2",
+    "ws": "^8.18.3"
+  }
+}
